@@ -1,2 +1,2 @@
-# tictacfinger
-##### like hash but has new rules.
+# tic-tac-finger
+##### like tic-tac-toe but has new rules.
